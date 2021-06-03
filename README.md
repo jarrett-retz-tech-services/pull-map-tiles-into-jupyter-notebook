@@ -1,5 +1,7 @@
 # Pull Map Tiles Into Jupyter Notebook
 
+<img src="./tileoverlay_folium.gif" alt="panning map tiles with temperature overlay" width="80%" height="auto">
+
 **The IPython Notebook accompanies a tutorial article for rendering weather data layers on top of base map tiles with folium.**
 
 The repository includes a `requirements.txt` file with the necessary packages. However, if your environemt is setup to run IPython kernels, the only package to install is `folium`.
